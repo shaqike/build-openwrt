@@ -3139,25 +3139,26 @@ CONFIG_PACKAGE_MAC80211_MESH=y
 # CONFIG_PACKAGE_kmod-rtw88-8723ds is not set
 # CONFIG_PACKAGE_kmod-rtw88-8723du is not set
 # CONFIG_PACKAGE_kmod-rtw88-8821ce is not set
-# CONFIG_PACKAGE_kmod-rtw88-8821cu is not set
-# CONFIG_PACKAGE_kmod-rtw88-8822be is not set
-# CONFIG_PACKAGE_kmod-rtw88-8822bu is not set
-# CONFIG_PACKAGE_kmod-rtw88-8822ce is not set
-# CONFIG_PACKAGE_kmod-rtw88-8822cu is not set
-# CONFIG_PACKAGE_kmod-rtw89-8851be is not set
-# CONFIG_PACKAGE_kmod-rtw89-8852ae is not set
-# CONFIG_PACKAGE_kmod-rtw89-8852be is not set
-# CONFIG_PACKAGE_kmod-rtw89-8852ce is not set
-# CONFIG_PACKAGE_kmod-wil6210 is not set
-# CONFIG_PACKAGE_kmod-wl12xx is not set
-# CONFIG_PACKAGE_kmod-wl18xx is not set
-# CONFIG_PACKAGE_kmod-wlcore is not set
-# end of Wireless Drivers
-# end of Kernel modules
+# 配置选项PACKAGE_kmod-rtw88-8821cu未设置
+# 配置选项PACKAGE_kmod-rtw88-8822be未设置
+# 配置选项PACKAGE_kmod-rtw88-8822bu未设置
+# 配置选项PACKAGE_kmod-rtw88-8822ce未设置
+# 配置选项PACKAGE_kmod-rtw88-8822cu未设置
+# 配置选项PACKAGE_kmod-rtw89-8851be未启用
+# 配置选项PACKAGE_kmod-rtw89-8852ae未启用
+# 配置选项PACKAGE_kmod-rtw89-8852be未设置
+# 配置选项PACKAGE_kmod-rtw89-8852ce未设置
+# 配置选项PACKAGE_kmod-wil6210未启用
+# 配置选项PACKAGE_kmod-wl12xx未设置
+# 配置选项PACKAGE_kmod-wl18xx未设置
+# 配置选项PACKAGE_kmod-wlcore未设置
+# 无线驱动程序结束
+# 内核模块结束
 
 #
-# Languages
+# 语言
 #
+
 
 #
 # Erlang
@@ -3181,10 +3182,10 @@ CONFIG_PACKAGE_MAC80211_MESH=y
 # CONFIG_PACKAGE_erlang-xmerl is not set
 # end of Erlang
 
-#
-# Go
-#
-# CONFIG_PACKAGE_golang is not set
+# 配置目标_omap 未设置
+# 配置目标_uml 未设置
+# CONFIG_TARGET_zynq 未设置
+# CONFIG_TARGET_x86 未设置golang 未设置
 
 #
 # Configuration
@@ -3203,14 +3204,14 @@ CONFIG_GOLANG_BUILD_CACHE_DIR=""
 # end of Go
 
 #
-# Lua
+# 路亚
 #
-# CONFIG_PACKAGE_cqueues is not set
-# CONFIG_PACKAGE_dkjson is not set
-# CONFIG_PACKAGE_json4lua is not set
-# CONFIG_PACKAGE_ldbus is not set
-# CONFIG_PACKAGE_libiwinfo-lua is not set
-# CONFIG_PACKAGE_linotify is not set
+# 配置选项cqueues未设置
+# 配置包 dkjson 未设置
+# CONFIG_PACKAGE_json4lua 未设置
+# 配置包ldbus未设置
+# 配置包libiwinfo-lua未设置
+# CONFIG_PACKAGE_linotify 未设置
 # CONFIG_PACKAGE_lpeg is not set
 # CONFIG_PACKAGE_lsqlite3 is not set
 CONFIG_PACKAGE_lua=y
