@@ -3384,7 +3384,7 @@ CONFIG_NODEJS_22=y
 # CONFIG_PACKAGE_python3-defusedxml is not set
 # CONFIG_PACKAGE_python3-dev is not set
 # CONFIG_PACKAGE_python3-distro is not set
-# CONFIG_PACKAGE_python3-distutils is not set
+CONFIG_PACKAGE_python3-distutils=y
 # CONFIG_PACKAGE_python3-django is not set
 # CONFIG_PACKAGE_python3-django-cors-headers is not set
 # CONFIG_PACKAGE_python3-django-etesync-journal is not set
@@ -3514,7 +3514,7 @@ CONFIG_NODEJS_22=y
 # CONFIG_PACKAGE_python3-sepolgen is not set
 # CONFIG_PACKAGE_python3-sepolicy is not set
 # CONFIG_PACKAGE_python3-service-identity is not set
-# CONFIG_PACKAGE_python3-setuptools is not set
+CONFIG_PACKAGE_python3-setuptools=y
 # CONFIG_PACKAGE_python3-simplejson is not set
 # CONFIG_PACKAGE_python3-six is not set
 # CONFIG_PACKAGE_python3-slugify is not set
@@ -3567,7 +3567,7 @@ CONFIG_NODEJS_22=y
 # Rust
 #
 # CONFIG_PACKAGE_maturin is not set
-# CONFIG_PACKAGE_rust is not set
+CONFIG_PACKAGE_rust=y
 
 #
 # Configuration options (for developers)
